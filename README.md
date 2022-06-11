@@ -1,8 +1,7 @@
 <h1 align="center">✨🌷 HEY THERE 🌷✨</h1>
 <h3 align="center">My name is Maya, I am a passionate CS & Neurosceince student from Israel, interested in ML, Image Processing and NLP</h3>
 
-<h3 align="center">
-  🧚‍♀️ Feel free to reach out: **mayyagoldman@gmail.com** 🧚‍♀️
+<h3 align="center">🧚‍♀️ Feel free to reach out: mayyagoldman@gmail.com🧚‍♀️
 
 
 
