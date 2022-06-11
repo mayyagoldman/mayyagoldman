@@ -1,3 +1,4 @@
+[![MasterHead](https://arthive.net/res/media/img/oy800/work/8fe/449398@2x.jpg)]
 <h1 align="center">✨🌷 HEY THERE 🌷✨</h1>
 <h3 align="center">My name is Maya, I am a passionate CS & Neurosceince student from Israel, interested in ML, Image Processing and NLP</h3>
 
